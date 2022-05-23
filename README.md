@@ -10,7 +10,10 @@ Its main function is to:
 
 ### Usage
 Use the following shortcode anywhere in a page/post content:
-```[gists user="username" amount="10"]```
+
+```
+[gists user="username" amount="10"]
+```
 
 …to display the last 10 Gists from the GitHub `username` user account.
 
